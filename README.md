@@ -10,10 +10,10 @@ As part of the project's requirement, I had to make a short video detailing the 
 The main focus of this project was to visualize evolution through natural selection and to track the mirco and marco changes that contributed to the ecosystem.
 
 <img align="left" width="300" alt="ES1" src="https://user-images.githubusercontent.com/69471291/146692603-f7650a95-e1d9-438e-b856-4d30614765e5.png">
-<img align="left" width="300" alt="ES2" src="https://user-images.githubusercontent.com/69471291/146692607-952b9e33-81d2-4464-aedc-9c241848c4dc.png">
+<img width="300" alt="ES2" src="https://user-images.githubusercontent.com/69471291/146692607-952b9e33-81d2-4464-aedc-9c241848c4dc.png">
 <img width="300" alt="ES5" src="https://user-images.githubusercontent.com/69471291/146692608-e4ac3bd5-6bb1-43e9-9060-1ad38802b43f.png">
 <img align="left" width="300" alt="ES3" src="https://user-images.githubusercontent.com/69471291/146692609-35d98f36-5ca0-4e8e-85e6-caa34c0eeab6.png">
 <img width="300" alt="ES4" src="https://user-images.githubusercontent.com/69471291/146692610-ca60c484-10b5-4c43-8b92-6fe953c7371f.png">
 <img align="left" width="300" alt="ES6" src="https://user-images.githubusercontent.com/69471291/146692611-7d75d8d9-daf2-47c2-b6ce-0c39e3ee44ea.png">
-<img align="left" width="300" alt="ES7" src="https://user-images.githubusercontent.com/69471291/146692612-0ee47273-b6c1-4d42-bffd-2b4717f7fa02.png">
+<img width="300" alt="ES7" src="https://user-images.githubusercontent.com/69471291/146692612-0ee47273-b6c1-4d42-bffd-2b4717f7fa02.png">
 <img width="300" alt="ES8" src="https://user-images.githubusercontent.com/69471291/146692613-8cb0e195-0814-4908-b266-0bff8538f266.png">
